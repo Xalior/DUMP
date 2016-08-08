@@ -1,0 +1,23 @@
+{
+  "name": "d.u.m.p.",
+  "version": "0.0.1",
+  "description": "D's Universal Mocking Platform",
+  "main": "dump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xalior/DUMP.git"
+  },
+  "keywords": [
+    "express",
+    "mock"
+  ],
+  "author": "D. Rimron <darran@xalior.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Xalior/DUMP/issues"
+  },
+  "homepage": "https://github.com/Xalior/DUMP#readme"
+}
